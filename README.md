@@ -9,18 +9,18 @@ An interactive, AI-powered educational analytics dashboard that transforms unstr
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
-* **⚡ Real-Time Macro KPIs:** Dynamic tracking of overall average ratings, total feedback entries, and critical complaint counts (1–2 stars).
-* **📊 Interactive Filtering & Data Engine:** Filter evaluations on the fly by rating ranges, course subjects, and metadata with instant chart updates.
-* **🧠 LLM Executive Summaries:** One-click qualitative sentiment synthesis powered by Llama 3.2 via Hugging Face Inference API.
-* **🏷️ Tagged Feedback Explorer:** Color-coded student feedback reader (Green = 5★ Praise, Amber = 3★ Neutral, Red = 1–2★ Critical Issues) for rapid triage.
-* **💬 Ask StudyBot Assistant:** Context-aware chat assistant grounded directly in the live filtered dataset.
-* **🎨 Adaptive Dual-Theme UI:** Custom styled interface supporting Light and Dark modes for optimal viewing environments.
+* **Real-Time Macro KPIs:** Dynamic tracking of overall average ratings, total feedback entries, and critical complaint counts (1–2 stars).
+* **Interactive Filtering & Data Engine:** Filter evaluations on the fly by rating ranges, course subjects, and metadata with instant chart updates.
+* **LLM Executive Summaries:** One-click qualitative sentiment synthesis powered by Llama 3.2 via Hugging Face Inference API.
+* **Tagged Feedback Explorer:** Color-coded student feedback reader (Green = 5★ Praise, Amber = 3★ Neutral, Red = 1–2★ Critical Issues) for rapid triage.
+* **Ask StudyBot Assistant:** Context-aware chat assistant grounded directly in the live filtered dataset.
+* **Adaptive Dual-Theme UI:** Custom styled interface supporting Light and Dark modes for optimal viewing environments.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend / Framework:** [Streamlit](https://streamlit.io/) (Python) with custom CSS styling and state management.
 * **Data Layer:** [Pandas](https://pandas.pydata.org/) & [Plotly Express](https://plotly.com/python/) for high-performance data manipulation and interactive charts.
@@ -29,7 +29,7 @@ An interactive, AI-powered educational analytics dashboard that transforms unstr
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 chatbot/
