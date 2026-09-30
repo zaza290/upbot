@@ -2,11 +2,6 @@
 
 An interactive, AI-powered educational analytics dashboard that transforms unstructured student course evaluations into real-time visual insights, executive sentiment summaries, and interactive natural-language Q&A.
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
 ---
 
 ##  Key Features
